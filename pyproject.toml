@@ -19,6 +19,9 @@ classifiers = [
 ]
 dependencies = []
 
+[project.scripts]
+schema-inference = "schema_inference.__main__:main"
+
 [project.urls]
 Homepage = "https://github.com/Trysac/u164-schema-inference"
 Source = "https://github.com/Trysac/u164-schema-inference"

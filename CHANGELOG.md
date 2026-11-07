@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Implement schema-inference library and CLI for JSON and CSV JSON Schema (draft 2020-12) inference.
 - Initial project structure from the factory utility template.
